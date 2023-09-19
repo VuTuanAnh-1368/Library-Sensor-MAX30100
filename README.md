@@ -5,5 +5,6 @@ The circuit diagram and connection is very simple.
    <img src="https://how2electronics.com/wp-content/uploads/2019/06/Interfacing-MAX30100-Pulse-Oximeter-Sensor-with-Arduino-1.jpg" alt="drawing" width="600"/>
    <img src="extras/block-diagram.png" alt="drawing" width="600"/>
 </center>
-#Data sheet
+
+## Datasheet
 [Sensor MAX30100 Pulse Oximeter and Heart Rate](https://www.analog.com/media/en/technical-documentation/data-sheets/MAX30100.pdf)
